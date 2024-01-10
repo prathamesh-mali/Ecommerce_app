@@ -1,6 +1,6 @@
 # ecom_app
 
-A new Flutter project.
+A Basic Ecommerce App User interface built with Flutter.
 
 ## Getting Started
 
